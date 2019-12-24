@@ -9,4 +9,6 @@ public class Logs {
     {
         Log.d(tag,msg);
     }
+
+    
 }
