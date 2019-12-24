@@ -5,10 +5,14 @@ import android.util.Log;
  */
 public class Logs {
 
+    /**
+     * Created by developers on 24/12/19.
+     * created  on 14/19/2019
+     */
     public static void d(String tag,String msg)
     {
         Log.d(tag,msg);
     }
 
-    
+
 }
